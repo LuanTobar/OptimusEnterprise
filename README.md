@@ -54,7 +54,6 @@ npm start
 2. **OCP**: Componentes extensibles sin modificación
 3. **LSP**: Componentes intercambiables respetan contratos
 4. **ISP**: Interfaces específicas, no genéricas
-5. **DIP**: Dependencias hacia abstracciones (types)
 
 ## 📁 Estructura
 
